@@ -1,0 +1,15 @@
+# `000002`
+
+captain sora of the uss highwind
+
+mode: aamXL
+
+txt2img prompt: TODO
+
+controlnet reference: TODO
+
+number of generations: too. many.
+
+editing: 3/10 to remove the malformed combadge and rank pips
+
+notes: i tried to inpaint the uniform instead but it proved to be too frustrating. should have done better with the hand too...
