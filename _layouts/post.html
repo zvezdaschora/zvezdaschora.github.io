@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/main.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/navbar.css">
+  <style>
+    .post-image {
+      max-width: 100%;
+      height: auto;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.subtitle }}</p>
+  </header>
+  <main>
+    <div class="container">
+      <article>
+        {% assign image_filename = page.title | append: ".png" %}
+        <img src="{{ site.baseurl }}/works/{{ image_filename }}" alt="{{ page.title }}" class="post-image">
+        <div class="post-content">
+          {{ content }}
+        </div>
+      </article>
+    </div>
+  </main>
+  <footer>
+    {% include navbar.html %}
+
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+  </footer>
+</body>
+</html>

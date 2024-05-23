@@ -1,0 +1,9 @@
+title: project zvezdaschora
+email: your-email@example.com
+description: proof of existence
+baseurl: "" 
+url: "https://zvezdaschora.github.io/" 
+twitter_username: zvezdaschora
+github_username:  zvezdaschora
+
+permalink: /works/:title/

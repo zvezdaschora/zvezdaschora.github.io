@@ -1,4 +1,8 @@
-# Disclaimer
+---
+layout: default
+title: Disclaimer
+permalink: /disclaimer/
+---
 
 The artworks displayed on this platform are crafted using a blend of artificial intelligence (AI) and traditional artistic methods including, but not limited to painting, photo editing, and masking. This process exclusively utilizes open-source AI models, software, and tools. All training materials used are publicly available and legally obtained, ensuring compliance with copyright laws. All AI models and tools are operated on personal resources without reliance on external company servers. No financial or other remunerations have been exchanged in the creation and distribution of these artworks. 
 

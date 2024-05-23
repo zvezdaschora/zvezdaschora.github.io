@@ -1,4 +1,10 @@
-The AI models employed in the creation of these artworks have been trained using publicly viewable materials, not unlike how traditional artists might study works displayed in museums to refine their craft. Ownership of these reference materials rests with their respective holders, yet their public exhibition allows for lawful observation and artistic inspiration, which is a globally recognized practice.
+---
+layout: default
+title: Ethics
+permalink: /ethics/
+---
+
+The AI models employed in the creation of these pieces have been trained using publicly viewable materials, not unlike how traditional artists might study works displayed in museums to refine their craft. Ownership of these reference materials rests with their respective holders, yet their public exhibition allows for lawful observation and artistic inspiration, which is a globally recognized practice.
 
 It is pertinent to highlight that many human artists acquire their skills through exposure to copyrighted materials, sometimes accessed via unauthorized means, such as anime viewed on piracy sites. This process of learning and creating derivative works, although informal, is widespread and analogous to the manner in which AI models assimilate diverse artistic influences.
 
